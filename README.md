@@ -78,3 +78,38 @@ Example: A Figma or Adobe XD design showing full colors, icons, and clickable el
 
 The wireframe included in this project is a Low-Fidelity Wireframe.
 It focuses on the layout structure, content placement, and navigation flow rather than visual design details. This allows the team to explore ideas and make quick changes before developing high-fidelity prototypes.
+
+🧰 Wireframing Tools
+
+There are several tools available for creating wireframes, each offering unique features for different design needs. Below are some popular wireframing tools used by designers and developers:
+
+1. Figma (Recommended)
+
+Figma is a cloud-based design and collaboration tool widely used for wireframing, UI design, and prototyping.
+
+Key Features:
+
+Real-time collaboration between team members
+
+Intuitive drag-and-drop interface
+
+Components and reusable design elements
+
+Supports both low-fidelity and high-fidelity designs
+
+Accessible from any browser without installation
+
+Why Figma is Great for Wireframing:
+Figma allows designers to quickly turn ideas into shareable wireframes that can be tested and refined collaboratively. Its real-time feedback and easy sharing make it ideal for both early-stage sketches and advanced prototypes.
+
+2. Balsamiq
+
+Balsamiq focuses on low-fidelity wireframes that resemble hand-drawn sketches. It’s perfect for brainstorming and quick concept creation.
+
+3. Adobe XD
+
+Adobe XD is great for high-fidelity wireframes and prototypes, offering smooth integration with other Adobe Creative Cloud tools.
+
+4. Sketch
+
+Sketch is a vector-based design tool primarily for macOS users, popular for its simplicity and strong plugin ecosystem.
